@@ -1,0 +1,16 @@
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_C_Sharp\Array\bin\Debug\net5.0\Array.exe
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_C_Sharp\Array\bin\Debug\net5.0\Array.deps.json
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_C_Sharp\Array\bin\Debug\net5.0\Array.runtimeconfig.json
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_C_Sharp\Array\bin\Debug\net5.0\Array.runtimeconfig.dev.json
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_C_Sharp\Array\bin\Debug\net5.0\Array.dll
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_C_Sharp\Array\bin\Debug\net5.0\ref\Array.dll
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_C_Sharp\Array\bin\Debug\net5.0\Array.pdb
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_C_Sharp\Array\obj\Debug\net5.0\Array.csproj.AssemblyReference.cache
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_C_Sharp\Array\obj\Debug\net5.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_C_Sharp\Array\obj\Debug\net5.0\Array.AssemblyInfoInputs.cache
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_C_Sharp\Array\obj\Debug\net5.0\Array.AssemblyInfo.cs
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_C_Sharp\Array\obj\Debug\net5.0\Array.csproj.CoreCompileInputs.cache
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_C_Sharp\Array\obj\Debug\net5.0\Array.dll
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_C_Sharp\Array\obj\Debug\net5.0\ref\Array.dll
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_C_Sharp\Array\obj\Debug\net5.0\Array.pdb
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_C_Sharp\Array\obj\Debug\net5.0\Array.genruntimeconfig.cache
